@@ -1,6 +1,6 @@
 # Accordion Practice
 
-This mini-project was a practice of accordions similar to a FAQ page
+This mini React project was a practice of accordions similar to a FAQ page
 
 ## Description
 
