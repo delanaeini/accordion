@@ -14,10 +14,10 @@ In this project opening an accorion item would close any open accordion item, so
 npm -v
 ```
 
-- Install package.json
+- Install node modules
 
 ```
-npm install package.json
+npm install
 ```
 
 - Run on local computer
